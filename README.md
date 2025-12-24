@@ -42,3 +42,4 @@ Based on observed activity and sedentary behavior patterns, the following high-l
 - Address sedentary behavior explicitly across all user segments, as higher activity levels did not consistently correspond to reduced sedentary time.
 - Position the Bellabeat app as a holistic wellness companion that supports sustainable routines rather than short-term intensity.
 
+For a detailed walkthrough of the full analysis process, please take a look at the documentation in the docs/folder.
